@@ -102,3 +102,7 @@ body {
 #submit-btn:hover {
     background-color: blue;
 }
+
+.change-font {
+    font-family: "Permanent Marker", cursive !important;
+}
